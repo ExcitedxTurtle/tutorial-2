@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="v]4Z}e.|l.FERyj|ku-.">Intensity</variable></variables><block type="pxt-on-start" id="b(I+lwhPgg#.)!qSrY]J" x="-79" y="-149"><statement name="HANDLER"><block type="variables_set" id="/-Wo6T4T,hXCy0(SkGjq"><field name="VAR" id="v]4Z}e.|l.FERyj|ku-.">Intensity</field><value name="VALUE"><shadow type="math_number" id="#-Z=phm9b7Lx+8SsPYDc"><field name="NUM">225</field></shadow></value></block></statement></block><block type="device_forever" id="/o}PVCs$aia7d6N9F|p^" x="205" y="0"><statement name="HANDLER"><block type="device_set_brightness" id="bl}K;Mm9`hB9$T-g%mh["><value name="value"><shadow type="math_number_minmax"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">0</field></shadow><block type="variables_get" id="eI/%!M7^mOCm?8f(R/W3"><field name="VAR" id="v]4Z}e.|l.FERyj|ku-.">Intensity</field></block></value><next><block type="device_print_message" id="IyBpn9XET]fMkTTvl;oX"><value name="text"><shadow type="text" id=".[s,ZCmgXTEu*EEtt30I"><field name="TEXT">Lets GO!</field></shadow></value><next><block type="device_show_leds" id="4]V9n0t1Nf|.`}eT?D$o"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="sGA$LURVbC/wec]KUqx#"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="[KefV_EmZZ=la=,~~^s4"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="device_show_leds" id=",#eq/D2(@|ku_7pw6A.J"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="!*en`a|}%cQ~YWE,,a1|"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="CrzAlt#qEG4tf}2n]c%;"><field name="LEDS">`
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="[ukC45/#hQCVn(})x*sf"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="y;2d8kE$3K7iTb?Y+EbW"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Af=V.Q.uA%F%8bM|lnh."><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="/oZCxuKVs8AXa=)Y3N}2"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="variables_change" id="66zCJi5p3)]b6pO|3kEs"><field name="VAR" id="v]4Z}e.|l.FERyj|ku-.">Intensity</field><value name="VALUE"><shadow type="math_number" id="QD2{c71Af*060G1IyV^/"><field name="NUM">-10</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
